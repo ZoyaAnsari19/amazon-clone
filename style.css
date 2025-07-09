@@ -165,8 +165,9 @@ span {
 .shop-section {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background-color: #e2e7e6;
+    gap: 10px;
 }
 
 .box {
