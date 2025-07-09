@@ -17,5 +17,4 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 3. JavaScript
 
 # Live demo
-
-
+[Click here!](https://my-first-clone-project.netlify.app)
