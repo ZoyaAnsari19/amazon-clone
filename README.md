@@ -18,3 +18,5 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 
 # Live demo
 [Click here to see!](https://amazon-clone-project2.netlify.app)
+
+[click me ](amazon_img/amazon_logo.png)
