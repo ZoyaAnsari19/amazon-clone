@@ -15,3 +15,6 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 1. HTML
 2. CSS
 3. JavaScript
+
+# Live demo
+[Click here to see!](amazon-clone-project2.netlify.app)
